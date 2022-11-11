@@ -8,19 +8,10 @@ namespace Lab4._1
 		static void Main(string[] args)
 		{
 
-			switch (z)
-			{
-				case 1:
-					Console.WriteLine(a + b);
-					break;
-				case 2:
+			Console.WriteLine(a - b);
+			break;
 
-				case 3:
-
-				case 4:
-			
-
-			}
+		}
 	}
 }
 
