@@ -11,6 +11,13 @@ namespace Lab4._1
 
 
 
+
+
+
+
+
+
+
 			Console.WriteLine("Введите первое число");
 			a = Convert.ToDouble(Console.ReadLine());
 
