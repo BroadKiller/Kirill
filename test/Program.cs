@@ -13,6 +13,17 @@ namespace Lab4._1
 			a = Convert.ToDouble(Console.ReadLine());
 			Console.WriteLine("Введите второе число");
 			b = Convert.ToDouble(Console.ReadLine());
+			Console.WriteLine("Выберите действие: 1. Сложение. 2. Вычитание. 3. Умножение. 4. Деление");
+			z = Convert.ToInt32(Console.ReadLine());
+
+
+
+
+
+
+
+
+
 
 
 
