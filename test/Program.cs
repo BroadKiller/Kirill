@@ -8,7 +8,17 @@ namespace Lab4._1
 		static void Main(string[] args)
 		{
 
-			Console.WriteLine("Выберите число: 1. Выполнить сложение. 2. Выполнить вычитание. 3. Выполнить умножение. 4. Выполнить деление");
+
+
+
+
+
+
+
+
+
+
+			Console.WriteLine("Выберите действие: 1. Сложение. 2. Вычитание. 3. Умножение. 4. Деление");
 			z = Convert.ToInt32(Console.ReadLine());
 
 		}
