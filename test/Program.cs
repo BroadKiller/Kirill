@@ -13,6 +13,7 @@ namespace Lab4._1
 			Console.WriteLine("Введите второе число");
 			b = Convert.ToDouble(Console.ReadLine());
 
+
 		}
 	}
 }
