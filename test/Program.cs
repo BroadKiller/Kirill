@@ -21,7 +21,8 @@ namespace Lab4._1
 					Console.WriteLine(a + b);
 					break;
 				case 2:
-
+					Console.WriteLine(a - b);
+					break;
 				case 3:
 
 				case 4:
@@ -55,6 +56,24 @@ namespace Lab4._1
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
 
 
 
