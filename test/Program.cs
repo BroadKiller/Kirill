@@ -9,6 +9,8 @@ namespace Lab4._1
 		{
 			double a, b, z;
 
+
+
 			Console.WriteLine("Введите первое число");
 			a = Convert.ToDouble(Console.ReadLine());
 
