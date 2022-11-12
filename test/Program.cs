@@ -32,8 +32,9 @@ namespace Lab4._1
 					break;
 
 
-			}
 
+			}
+			Console.WriteLine("Hi julia")
 
 
 
