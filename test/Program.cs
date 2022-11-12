@@ -8,6 +8,21 @@ namespace Lab4._1
 		static void Main(string[] args)
 		{
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 			switch (z)
 			{
 				case 1:
