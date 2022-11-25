@@ -34,7 +34,7 @@ namespace Lab4._1
 
 
 			}
-			Console.WriteLine("Hi julia")
+			
 
 
 
